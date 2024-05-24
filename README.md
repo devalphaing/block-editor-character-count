@@ -1,4 +1,4 @@
-# Word Count Plugin
+# Character Count Plugin
 
 A WordPress plugin integrated with React for counting the number of words in a blog post.
 
@@ -10,11 +10,11 @@ A WordPress plugin integrated with React for counting the number of words in a b
 
 ## Features
 
-- Counts the number of words in a blog post.
+- Counts the number of Character in a blog post.
 - Provides a block in the WordPress block editor for displaying the word count.
 
 ## Usage
 
 1. Create or edit a blog post in the WordPress block editor.
 2. Add the "Word Count" block to your post.
-3. The block will display the word count of the post.
+3. The block will display the Character count of the post.
