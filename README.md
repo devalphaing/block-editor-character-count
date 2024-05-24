@@ -1,0 +1,1 @@
+# block-editor-character-count
